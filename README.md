@@ -1,10 +1,7 @@
 
-README — 工业数据异常检测项目 (三语版)
+README — 工业数据异常检测项目
 
 ⸻
-
-语言说明 / Language Note / 언어 안내
-
 
 1. 项目简介 (Project Overview / 프로젝트 소개)
 
